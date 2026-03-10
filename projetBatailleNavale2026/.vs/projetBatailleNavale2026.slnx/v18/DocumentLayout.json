@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\5TTI2Progra\\projet2026\\projetBatailleNavale2026\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2919E5A0-F4F6-403E-8AF7-4A662A468319}|projetBatailleNavale2026.csproj|h:\\5tti2progra\\projet2026\\projetbataillenavale2026\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2919E5A0-F4F6-403E-8AF7-4A662A468319}|projetBatailleNavale2026.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2919E5A0-F4F6-403E-8AF7-4A662A468319}|projetBatailleNavale2026.csproj|h:\\5tti2progra\\projet2026\\projetbataillenavale2026\\methodesduprojet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2919E5A0-F4F6-403E-8AF7-4A662A468319}|projetBatailleNavale2026.csproj|solutionrelative:methodesduprojet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MethodesDuProjet.cs",
+              "DocumentMoniker": "H:\\5TTI2Progra\\projet2026\\projetBatailleNavale2026\\MethodesDuProjet.cs",
+              "RelativeDocumentMoniker": "MethodesDuProjet.cs",
+              "ToolTip": "H:\\5TTI2Progra\\projet2026\\projetBatailleNavale2026\\MethodesDuProjet.cs",
+              "RelativeToolTip": "MethodesDuProjet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T14:15:15.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\5TTI2Progra\\projet2026\\projetBatailleNavale2026\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "H:\\5TTI2Progra\\projet2026\\projetBatailleNavale2026\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAACvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T14:05:58.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
