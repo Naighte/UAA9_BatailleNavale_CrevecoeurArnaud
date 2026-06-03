@@ -1,0 +1,15 @@
+C:\Users\Zalman\Documents\projetProgra5TTI\git\UAA9_BatailleNavale_CrevecoeurArnaud\projetBatailleNavale2026\obj\Debug\net8.0\projetBatailleNavale2026.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zalman\Documents\projetProgra5TTI\git\UAA9_BatailleNavale_CrevecoeurArnaud\projetBatailleNavale2026\obj\Debug\net8.0\projetBatailleNavale2026.AssemblyInfoInputs.cache
+C:\Users\Zalman\Documents\projetProgra5TTI\git\UAA9_BatailleNavale_CrevecoeurArnaud\projetBatailleNavale2026\obj\Debug\net8.0\projetBatailleNavale2026.AssemblyInfo.cs
+C:\Users\Zalman\Documents\projetProgra5TTI\git\UAA9_BatailleNavale_CrevecoeurArnaud\projetBatailleNavale2026\obj\Debug\net8.0\projetBatailleNavale2026.csproj.CoreCompileInputs.cache
+C:\Users\Zalman\Documents\projetProgra5TTI\git\UAA9_BatailleNavale_CrevecoeurArnaud\projetBatailleNavale2026\obj\Debug\net8.0\projetBatailleNavale2026.sourcelink.json
+C:\Users\Zalman\Documents\projetProgra5TTI\git\UAA9_BatailleNavale_CrevecoeurArnaud\projetBatailleNavale2026\bin\Debug\net8.0\projetBatailleNavale2026.exe
+C:\Users\Zalman\Documents\projetProgra5TTI\git\UAA9_BatailleNavale_CrevecoeurArnaud\projetBatailleNavale2026\bin\Debug\net8.0\projetBatailleNavale2026.deps.json
+C:\Users\Zalman\Documents\projetProgra5TTI\git\UAA9_BatailleNavale_CrevecoeurArnaud\projetBatailleNavale2026\bin\Debug\net8.0\projetBatailleNavale2026.runtimeconfig.json
+C:\Users\Zalman\Documents\projetProgra5TTI\git\UAA9_BatailleNavale_CrevecoeurArnaud\projetBatailleNavale2026\bin\Debug\net8.0\projetBatailleNavale2026.dll
+C:\Users\Zalman\Documents\projetProgra5TTI\git\UAA9_BatailleNavale_CrevecoeurArnaud\projetBatailleNavale2026\bin\Debug\net8.0\projetBatailleNavale2026.pdb
+C:\Users\Zalman\Documents\projetProgra5TTI\git\UAA9_BatailleNavale_CrevecoeurArnaud\projetBatailleNavale2026\obj\Debug\net8.0\projetBatailleNavale2026.dll
+C:\Users\Zalman\Documents\projetProgra5TTI\git\UAA9_BatailleNavale_CrevecoeurArnaud\projetBatailleNavale2026\obj\Debug\net8.0\refint\projetBatailleNavale2026.dll
+C:\Users\Zalman\Documents\projetProgra5TTI\git\UAA9_BatailleNavale_CrevecoeurArnaud\projetBatailleNavale2026\obj\Debug\net8.0\projetBatailleNavale2026.pdb
+C:\Users\Zalman\Documents\projetProgra5TTI\git\UAA9_BatailleNavale_CrevecoeurArnaud\projetBatailleNavale2026\obj\Debug\net8.0\projetBatailleNavale2026.genruntimeconfig.cache
+C:\Users\Zalman\Documents\projetProgra5TTI\git\UAA9_BatailleNavale_CrevecoeurArnaud\projetBatailleNavale2026\obj\Debug\net8.0\ref\projetBatailleNavale2026.dll
